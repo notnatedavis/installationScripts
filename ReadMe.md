@@ -25,7 +25,7 @@ This is a repository containing a multitude of general scripts for intalling a m
 - JDK
 
 ## Usage
-(execution steps here)
+(execution steps here to install prereqs)
 
 _Asahi Linux (Fedora)_
 1. `x`
