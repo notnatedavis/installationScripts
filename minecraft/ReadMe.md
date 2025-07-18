@@ -1,8 +1,8 @@
 # Minecraft
 
 ### Installation & Usage
-_macOS_
-0. ensure all prerequisites are installed (git clone, java, launcher, mods, shaders)
+_macOS_  
+0.) ensure all prerequisites are installed (git clone, java, launcher, mods, shaders)
 1. install minecraft java client
 2. install 1.20.1 release within client
 3. install fabric v(1.20.1)
