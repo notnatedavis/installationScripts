@@ -25,3 +25,7 @@ _Windows_
     - open the download in file explorer, open the mods folder for your version
     - Open `Windows Key`, type `%appdata%`, open `.minecraft/` folder , (if hidden enable under option View->Show->hidden) , open `mods/` folder , (if not there create `mods`/ folder), drag downloaded mods to this `mods/` folder
     - launch minecraft `EssentialFabric` installation and test by creating a single player world and test inviting someone
+
+_MacOS_ 
+
+- I know how to do it I just need to update and write it all down
