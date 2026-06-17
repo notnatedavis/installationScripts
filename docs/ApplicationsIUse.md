@@ -16,12 +16,15 @@
 - VSCode
 - Visual Studio (optional, big space)
 - Discord
+- qBittorrent (downloading torrents)
 
 **Windows**
 - WizTree
 - WinDirStat
 - PowerToys Preview
 - Snipping Tool
+- Battle.net
+- Epic launcher
 
 **Mac**
 - Capcut
