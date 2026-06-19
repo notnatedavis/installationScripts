@@ -2,39 +2,40 @@
 
 **Universal**
 - Chrome
-- Spotify
+- Discord
 - Docker Desktop
-- Proton
-- Steam
-- Tor
-- Obsidian
-- OBS
-- Warp (update ?)
+- Dolphin
 - Minecraft
 - Notes
-- Whatsapp
+- OBS
+- Obsidian
+- Proton
+- qBittorrent
+- Spotify
+- Steam
+- Tor
+- Visual Studio
+- VLC
 - VSCode
-- Visual Studio (optional, big space)
-- Discord
-- qBittorrent (downloading torrents)
+- Warp
+- Whatsapp
 
 **Windows**
-- WizTree
-- WinDirStat
-- PowerToys Preview
-- Snipping Tool
 - Battle.net
 - Epic launcher
+- PowerToys Preview (window management + more)
+- Snipping Tool
+- WinDirStat
+- WizTree
 
 **Mac**
+- Balena
+- Calendar
 - Capcut
 - Disk Utility
 - GraphiQL (the better Postman)
-- Calendar
-- OmniDiskSweeper
 - Messages
+- OmniDiskSweeper
 - OnlySwitch
-- Dolphin
-- Rectangle (hotkeys)
+- Rectangle (window management)
 - UTM (vm)
-- Balena
