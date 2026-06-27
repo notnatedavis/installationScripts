@@ -1,41 +1,48 @@
 # Applications.md
 
-**Universal**
-- Chrome
-- Discord
-- Docker Desktop
-- Dolphin
-- Minecraft
-- Notes
-- OBS
-- Obsidian
-- Proton
-- qBittorrent
-- Spotify
-- Steam
-- Tor
-- Visual Studio
-- VLC
-- VSCode
-- Warp
-- Whatsapp
+- **Universal**  
+    ```bash
+    - Chrome      
+    - Discord  
+    - Docker Desktop # vms  
+    - Dolphin        # emulation  
+    - Minecraft  
+    - Notes  
+    - OBS            # recording  
+    - Obsidian       # notes/knowledge  
+    - Proton         # free vpn  
+    - qBittorrent    # torrents  
+    - Spotify  
+    - Steam   
+    - Tor            # tor network w/ proton  
+    - Telegram       # bots  
+    - Visual Studio  
+    - VLC            # media player  
+    - VSCode  
+    - Warp           # clean CLI  
+    - Whatsapp  
+    ```
 
-**Windows**
-- Battle.net
-- Epic launcher
-- PowerToys Preview (window management + more)
-- Snipping Tool
-- WinDirStat
-- WizTree
+- **Windows**  
+    ```bash
+    - Battle.net
+    - Epic launcher
+    - PowerToys Preview # window management + more
+    - Snipping Tool
+    - WinDirStat        # storage
+    - WizTree
+    ```
 
-**Mac**
-- Balena
-- Calendar
-- Capcut
-- Disk Utility
-- GraphiQL (the better Postman)
-- Messages
-- OmniDiskSweeper
-- OnlySwitch
-- Rectangle (window management)
-- UTM (vm)
+- **Mac**  
+    ```bash
+    - Balena          # flashing
+    - Calendar
+    - Capcut
+    - Disk Utility
+    - GraphiQL        # the better Postman
+    - Messages
+    - OmniDiskSweeper # storage
+    - OnlySwitch      # admin control
+    - Rectangle       # window management
+    - UTM             # vm
+    ```
