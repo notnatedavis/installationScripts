@@ -2,7 +2,7 @@
 
 ### Intent
 
-This document exists to copy and paste all custom command trades so that they exist somewhere for simple copy paste.
+This document exists to hold all custom command trades so that they exist somewhere for simple copy paste. (at some point I would like to go through individually and adjust prices to be realistic)
 
 --- 
 
@@ -38,7 +38,7 @@ This document exists to copy and paste all custom command trades so that they ex
 
 ---
 
-### Tree Villager
+### Tree Sapling Villager
 
 ```bash
 /summon villager ~ ~ ~ {Willing:1b,Xp:10,VillagerData:{level:99,profession:"minecraft:farmer",type:"minecraft:jungle"},Offers:{Recipes:[{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:iron_ingot",count:1},sell:{id:"minecraft:cherry_sapling",count:3}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:cherry_sapling",count:3},sell:{id:"minecraft:iron_ingot",count:1}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:iron_ingot",count:1},sell:{id:"minecraft:mangrove_propagule",count:3}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:mangrove_propagule",count:3},sell:{id:"minecraft:iron_ingot",count:1}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:iron_ingot",count:1},sell:{id:"minecraft:dark_oak_sapling",count:3}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:dark_oak_sapling",count:3},sell:{id:"minecraft:iron_ingot",count:1}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:iron_ingot",count:1},sell:{id:"minecraft:acacia_sapling",count:3}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:acacia_sapling",count:3},sell:{id:"minecraft:iron_ingot",count:1}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:iron_ingot",count:1},sell:{id:"minecraft:jungle_sapling",count:3}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:jungle_sapling",count:3},sell:{id:"minecraft:iron_ingot",count:1}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:iron_ingot",count:1},sell:{id:"minecraft:birch_sapling",count:3}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:birch_sapling",count:3},sell:{id:"minecraft:iron_ingot",count:1}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:iron_ingot",count:1},sell:{id:"minecraft:spruce_sapling",count:3}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:spruce_sapling",count:3},sell:{id:"minecraft:iron_ingot",count:1}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:iron_ingot",count:1},sell:{id:"minecraft:oak_sapling",count:3}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:oak_sapling",count:3},sell:{id:"minecraft:iron_ingot",count:1}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:iron_ingot",count:1},sell:{id:"minecraft:pale_oak_sapling",count:3}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:pale_oak_sapling",count:3},sell:{id:"minecraft:iron_ingot",count:1}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:iron_ingot",count:1},sell:{id:"minecraft:flowering_azalea",count:3}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:flowering_azalea",count:3},sell:{id:"minecraft:iron_ingot",count:1}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:iron_ingot",count:1},sell:{id:"minecraft:azalea",count:3}},{rewardExp:1b,maxUses:999,uses:100,xp:10,buy:{id:"minecraft:azalea",count:3},sell:{id:"minecraft:iron_ingot",count:1}}]}}
@@ -54,8 +54,32 @@ This document exists to copy and paste all custom command trades so that they ex
 
 ---
 
-### X Villager
+### Wood Villager
 
 ```bash
+update this
+```
 
+---
+
+### Block Villager
+
+```bash
+update this
+```
+
+---
+
+### Currency Villager
+
+```bash
+update this
+```
+
+---
+
+### Spawn Egg Villager
+
+```bash
+update this
 ```
